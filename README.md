@@ -101,11 +101,17 @@ Topics include:
 - OCI Identity Domains
 - SCIM and identity APIs
 - Multi-Factor Authentication
+- Legacy web application authentication modernization using Oracle App Gateway
 - OCI IAM automation
 - Cloud Guard and CSPM
 - Security logging and monitoring
 - Government cloud federation and security
 - OCI security architecture
+
+**Featured Oracle A-Team Chronicles articles:**
+
+- [Multi-Factor Authentication with App Gateway](https://www.ateam-oracle.com/multi-factor-authentication-with-app-gateway) — hands-on Oracle App Gateway configuration and application-specific MFA sign-on policies with Oracle Identity Cloud Service / OCI Identity Domains.
+- [See How Easily You Can Deploy App Gateway with HA](https://www.ateam-oracle.com/see-how-easily-you-can-deploy-app-gateway-with-ha) — highly available App Gateway architecture using multiple gateway instances behind an OCI Load Balancer, HTTPS, and private subnet deployment.
 
 [Read my A-Team Chronicles articles](https://www.ateam-oracle.com/authors/vinay-kalra/)
 
